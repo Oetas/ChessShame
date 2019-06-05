@@ -1,0 +1,5 @@
+D:\Документы\ДипломЧег\ChessLibrary\ChessLibrary\bin\Debug\ChessLibrary.dll
+D:\Документы\ДипломЧег\ChessLibrary\ChessLibrary\bin\Debug\ChessLibrary.pdb
+D:\Документы\ДипломЧег\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.csprojResolveAssemblyReference.cache
+D:\Документы\ДипломЧег\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.dll
+D:\Документы\ДипломЧег\ChessLibrary\ChessLibrary\obj\Debug\ChessLibrary.pdb

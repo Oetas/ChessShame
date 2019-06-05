@@ -1,0 +1,8 @@
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\bin\Debug\ChessPlay.exe.config
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\bin\Debug\ChessPlay.exe
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\bin\Debug\ChessPlay.pdb
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\bin\Debug\ChessLibrary.dll
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\bin\Debug\ChessLibrary.pdb
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\obj\Debug\ChessPlay.csprojResolveAssemblyReference.cache
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\obj\Debug\ChessPlay.exe
+D:\Документы\ДипломЧег\ChessLibrary\ChessPlay\obj\Debug\ChessPlay.pdb
